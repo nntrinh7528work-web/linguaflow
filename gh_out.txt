@@ -1,0 +1,4 @@
+
+[0;33m![0m First copy your one-time code: [0;1;39m89E0-FF32[0m
+[0;1;39mOpen this URL[0m to continue in your web browser: https://github.com/login/device
+^C

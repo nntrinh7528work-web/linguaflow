@@ -1,8 +1,8 @@
 import { createBrowserClient } from '@supabase/ssr';
 
 /**
- * Creates and returns a Supabase client for browser-side usage.
- * Uses environment variables for URL and anon key.
+ * Creates a Supabase client for browser-side (client components).
+ * This client uses the anon key and handles auth automatically.
  */
 export function createClient() {
     return createBrowserClient(
